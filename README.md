@@ -1,3 +1,3 @@
-# App Batitech
+# Batitech App
 
-Application python utilisant l'API [Synchroteam](https://www.synchroteam.com/) et tkinter pour créer des tâches, créé lors de mon stage d'été chez [BATITECH NC](https://www.facebook.com/BatitechNouvelleCaledonie/).
+Python application using the [Synchroteam](https://www.synchroteam.com/) API and tkinter to create tasks, created during my summer internship at [BATITECH NC](https://www.facebook.com/BatitechNouvelleCaledonie/).
